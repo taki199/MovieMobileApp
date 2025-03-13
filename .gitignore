@@ -31,6 +31,10 @@ yarn-error.*
 
 .env*
 
+.env
+*.apk
+*.aab
+
 # local env files
 .env*.local
 
